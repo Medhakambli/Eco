@@ -1,0 +1,1 @@
+const OPENAIAPIKEY = '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';
